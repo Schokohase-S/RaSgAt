@@ -1,2 +1,2 @@
-# rasgat
+# RaSgAt
 Hetzner Game Jam - RaSgAt
